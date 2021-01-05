@@ -1,26 +1,29 @@
-*{
+* {
     margin: 0;
     color: slategray;
 }
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
 .text-heighlit{
     color: orange;
 }
-h1{
+h1 {
     font-size: 50px;
     padding: 10px;
 }
+
 .half-width {
     width: 40%;
     float: left;
     margin-left: 5%;
-    padding: 7px;
+    padding: 15px;
 }
+
 .half-width img {
     width: 90%;
 }
+
 .top-banner {
 
     background-image: url("images/background.png");
@@ -77,6 +80,6 @@ p{
     border-image-source: linear-gradient(180deg , #743ad5, rgba(238, 14, 14, 0.897));
     border-image-slice: 1;
 }
-footer{
+footer {
     text-align: center;
 }
